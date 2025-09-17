@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.AssemblyInfo.cs
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Service.deps.json
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Service.dll
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Service.pdb
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Domain.dll
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Repository.dll
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Domain.pdb
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\bin\Debug\net8.0\TravelApp.Repository.pdb
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelAp.839316A3.Up2Date
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.dll
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\refint\TravelApp.Service.dll
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\TravelApp.Service.pdb
+C:\Users\user\Desktop\za is proekt\TravelApp\TravelApp.Service\obj\Debug\net8.0\ref\TravelApp.Service.dll

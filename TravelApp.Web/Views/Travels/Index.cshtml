@@ -1,0 +1,77 @@
+﻿@model IEnumerable<TravelApp.Domain.DomainModels.Travel>
+
+@{
+    ViewData["Title"] = "Index";
+    var wishlistTravelIds = ViewBag.WishlistTravelIds as List<Guid> ?? new List<Guid>();
+    var pastTravelIds = ViewBag.PastTravelsIds as List<Guid> ?? new List<Guid>();
+}
+
+<h1>Travels</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark btn-sm">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Price</th>
+            <th>Visa Needed</th>
+            <th>Cities Visited</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            bool isInWishlist = wishlistTravelIds.Contains(item.Id);
+            bool isInPastTravels = pastTravelIds.Contains(item.Id);
+
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Description</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@item.Price.ToString("C")</td>
+                <td>@(item.VisaNeeded ? "Yes" : "No")</td>
+                <td>
+                    @if (item.Cities != null && item.Cities.Any())
+                    {
+                        @string.Join(", ", item.Cities.Select(c => c.Name))
+                    }
+                    else
+                    {
+                        <span>No cities!</span>
+                    }
+                </td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm mb-1">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm mb-1">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+
+                </td>
+                <td>
+                    <form asp-controller="Wishlist" asp-action="AddToWishlist" method="post" style="display:inline">
+                        <input type="hidden" name="travelId" value="@item.Id" />
+                        <button type="submit" class="btn btn-dark btn-sm mb-1" @(isInPastTravels || isInWishlist ? "disabled" : "")>
+                            @(isInWishlist ? "Already in Wishlist" : "Add to Wishlist")
+                        </button>
+                    </form>
+                    <form asp-controller="PastTravels" asp-action="AddToPastTravels" method="post" style="display:inline">
+                        <input type="hidden" name="travelId" value="@item.Id" />
+                        <button type="submit" class="btn btn-dark btn-sm" @(isInPastTravels || isInWishlist ? "disabled" : "")>
+                            @(isInPastTravels ? "Already in PastTravels" : "Add to PastTravels")
+                        </button>
+                    </form>
+                </td>
+               
+            </tr>
+        }
+    </tbody>
+</table>

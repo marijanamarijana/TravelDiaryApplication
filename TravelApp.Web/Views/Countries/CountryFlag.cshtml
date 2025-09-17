@@ -1,0 +1,21 @@
+﻿@using TravelApp.Domain.DTOs
+@model FlagDataDto
+
+<div>
+    @if (Model != null)
+    {
+        <h2>@Model.Name (@Model.Iso2)</h2>
+        <img src="@Model.Flag" alt="Flag of @Model.Name" style="border:1px solid #ccc; width: 500px;" />
+        <br />
+        <a asp-action="Index" class="btn btn-secondary btn-sm mt-2">Back to List</a>
+    }
+    else
+    {
+        <div style="display:flex; align-items:center; justify-content:center;">
+            <h2>Sorry, we can't seem to find this country's flag :(</h2>
+        </div>
+        <div class="mt-3" style="display:flex; align-items:center; justify-content:center;">
+            <a asp-action="Index" class="btn btn-secondary btn-sm">Back to List</a>
+        </div>
+    }
+</div>

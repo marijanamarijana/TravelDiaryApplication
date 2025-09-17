@@ -1,0 +1,1062 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.repository\\travelapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|solutionrelative:travelapp.repository\\travelapp.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\countryflag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\countryflag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\travels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\travels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\travels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\travels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\travels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\travels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\cities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\cities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\cities\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\cities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\travels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\travels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\travels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\travels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\wishlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\cities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\dtos\\flagdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\dtos\\flagdatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\dtos\\flagresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\dtos\\flagresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\dtos\\countryinfodetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\dtos\\countryinfodetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\dtos\\countryinfoapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\dtos\\countryinfoapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\pasttravels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\pasttravels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\travelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\pasttravelsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\pasttravelsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|solutionrelative:travelapp.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\interface\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\interface\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\travelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\travelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\travelwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\travelwishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\domainmodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\domainmodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\pasttravelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\pasttravelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\interface\\ipasttravelsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\interface\\ipasttravelsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\implementation\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\implementation\\wishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\identity\\travelappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\identity\\travelappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\interface\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\interface\\iwishlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\interface\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\interface\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\travelapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\travelapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BF6BC1-56C9-48F3-BCA7-C6B9123E4360}|TravelApp.Domain\\TravelApp.Domain.csproj|solutionrelative:travelapp.domain\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|solutionrelative:travelapp.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|solutionrelative:travelapp.repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D2344-A495-46F3-BB9E-8888445BAF6A}|TravelApp.Repository\\TravelApp.Repository.csproj|solutionrelative:travelapp.repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B8BAC4-0746-4CEC-84A9-6C5EC4BCA19A}|TravelApp.Service\\TravelApp.Service.csproj|solutionrelative:travelapp.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|c:\\users\\user\\desktop\\za is proekt\\travelapp\\travelapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BA349-658C-4303-B725-4AC68EDC156F}|TravelApp.Web\\TravelApp.Web.csproj|solutionrelative:travelapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Create.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Travels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Create.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Travels\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:16:02.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Travels\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Edit.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Travels\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:19:15.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryFlag.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\CountryFlag.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\CountryFlag.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\CountryFlag.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\CountryFlag.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T12:23:42.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Info.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Info.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Info.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T13:06:55.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Cities\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Delete.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Cities\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T13:48:12.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Travels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Travels\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:19:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Create.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Cities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Create.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Cities\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T13:48:08.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelApp.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\TravelApp.Repository.csproj",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\TravelApp.Repository.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\TravelApp.Repository.csproj",
+              "RelativeToolTip": "TravelApp.Repository\\TravelApp.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T18:50:32.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Edit.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T20:17:34.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Create.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Create.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T20:19:55.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Cities\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Edit.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Cities\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T13:48:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Details.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Cities\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Details.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Cities\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T13:48:14.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Delete.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T20:19:39.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Details.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Details.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T20:19:18.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Travels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Delete.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Travels\\Delete.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:18:44.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Details.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Travels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Travels\\Details.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Travels\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T19:19:00.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Wishlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Wishlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Wishlist\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Wishlist\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T16:33:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Countries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Countries\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Countries\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T09:42:54.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Cities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Cities\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Cities\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T13:48:18.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlagDataDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\FlagDataDto.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DTOs\\FlagDataDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\FlagDataDto.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DTOs\\FlagDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:42.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FLagResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\FLagResponseDto.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DTOs\\FLagResponseDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\FLagResponseDto.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DTOs\\FLagResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:17:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CountryInfoDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\CountryInfoDetailsDto.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DTOs\\CountryInfoDetailsDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\CountryInfoDetailsDto.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DTOs\\CountryInfoDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:51:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CountryInfoApiDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\CountryInfoApiDto.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DTOs\\CountryInfoApiDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DTOs\\CountryInfoApiDto.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DTOs\\CountryInfoApiDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:39:58.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\ApiService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\ApiService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\ApiService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\ApiService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:54:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\PastTravels\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\PastTravels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\PastTravels\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\PastTravels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T12:05:54.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TravelsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\TravelsController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\TravelsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\TravelsController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\TravelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:20:55.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\CityService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\CityService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\CityService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\CityService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:05:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\CountryService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\CountryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\CountryService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\CountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:07:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PastTravelsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\PastTravelsService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\PastTravelsService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\PastTravelsService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\PastTravelsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:51:36.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TravelService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\TravelService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\TravelService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\TravelService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\TravelService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswF4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:14:19.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\Repository.cs",
+              "RelativeToolTip": "TravelApp.Repository\\Repository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:57:36.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ITravelService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\ITravelService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Interface\\ITravelService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\ITravelService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Interface\\ITravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:11:45.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\Country.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\Country.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\Country.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:30:53.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\Travel.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\Travel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\Travel.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\Travel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:27:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250915140005_changeTravelsRelation0.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs",
+              "RelativeToolTip": "TravelApp.Repository\\Migrations\\20250915140005_changeTravelsRelation0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:00:05.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TravelBooking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\TravelBooking.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\TravelBooking.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\TravelBooking.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\TravelBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:30:50.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\City.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\City.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\City.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:25:25.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwKcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:31:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TravelWishlist.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\TravelWishlist.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\TravelWishlist.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\TravelWishlist.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\TravelWishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:34:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\DomainModels\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\DomainModels\\BaseEntity.cs",
+              "RelativeToolTip": "TravelApp.Domain\\DomainModels\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:23:51.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelApp.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\appsettings.json",
+              "RelativeToolTip": "TravelApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T17:38:31.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TravelApp.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\appsettings.Development.json",
+              "RelativeToolTip": "TravelApp.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T12:09:35.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T21:11:16.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WishlistService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\WishlistService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Implementation\\WishlistService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Implementation\\WishlistService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Implementation\\WishlistService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T15:38:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:37.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PastTravelsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\PastTravelsController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\PastTravelsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\PastTravelsController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\PastTravelsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:03:00.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPastTravelsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IPastTravelsService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Interface\\IPastTravelsService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IPastTravelsService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Interface\\IPastTravelsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:11:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Program.cs",
+              "RelativeToolTip": "TravelApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:38:16.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TravelAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\Identity\\TravelAppUser.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\Identity\\TravelAppUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\Identity\\TravelAppUser.cs",
+              "RelativeToolTip": "TravelApp.Domain\\Identity\\TravelAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:43:35.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IWishlistService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IWishlistService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Interface\\IWishlistService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IWishlistService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Interface\\IWishlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T15:37:11.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IApiService.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Interface\\IApiService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Interface\\IApiService.cs",
+              "RelativeToolTip": "TravelApp.Service\\Interface\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:53:39.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TravelApp.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\TravelApp.Web.csproj",
+              "RelativeDocumentMoniker": "TravelApp.Web\\TravelApp.Web.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\TravelApp.Web.csproj",
+              "RelativeToolTip": "TravelApp.Web\\TravelApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:55:49.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T17:52:24.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T22:10:56.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TravelApp.Domain\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "TravelApp.Domain\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:41:51.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:57:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "TravelApp.Web\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:57:20.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T21:11:02.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T21:11:04.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "TravelApp.Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:42:58.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\IRepository.cs",
+              "RelativeToolTip": "TravelApp.Repository\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:56:34.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TravelApp.Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TravelApp.Repository\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:49:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "TravelApp.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Service\\Class1.cs",
+              "RelativeToolTip": "TravelApp.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:59:06.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T18:18:38.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\za is proekt\\TravelApp\\TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TravelApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAArwH8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:18:49.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

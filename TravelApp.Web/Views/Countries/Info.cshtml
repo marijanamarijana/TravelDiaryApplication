@@ -1,0 +1,14 @@
+﻿@using TravelApp.Domain.DTOs
+@model CountryInfoDetailsDto
+
+@{
+    ViewData["Title"] = "Country Info";
+}
+
+<h2>@Model.Name</h2>
+<hr />
+<p><b>Capital:</b> @Model.Capital</p>
+<p><b>Region:</b> @Model.Region</p>
+<p><b>Currency:</b> @Model.Currency</p>
+<p><b>Phone code:</b> @Model.Phonecode</p>
+<a asp-action="Index" class="btn btn-secondary btn-sm mt-2">Back to List</a>

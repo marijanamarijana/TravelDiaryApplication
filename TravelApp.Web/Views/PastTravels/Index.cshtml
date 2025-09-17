@@ -1,0 +1,60 @@
+﻿@model IEnumerable<TravelApp.Domain.DomainModels.Travel>
+
+@{
+    ViewData["Title"] = "My Past Travels";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!Model.Any())
+{
+    <p> You don't have any past travels! :( </p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>Price</th>
+                <th>Visa Needed</th>
+                <th>City</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var travel in Model)
+            {
+                <tr>
+                    <td>@travel.Title</td>
+                    <td>@travel.Description</td>
+                    <td>@travel.StartDate.ToShortDateString()</td>
+                    <td>@travel.EndDate.ToShortDateString()</td>
+                    <td>@travel.Price.ToString("C")</td>
+                    <td>@(travel.VisaNeeded ? "Yes" : "No")</td>
+                    <td>
+                        @if (travel.Cities != null && travel.Cities.Any())
+                        {
+                            @string.Join(", ", travel.Cities.Select(c => c.Name))
+                        }
+                        else
+                        {
+                            <span>No cities</span>
+                        }
+                    </td>
+                    <td>
+                        <form asp-action="RemoveFromPastTravels" method="post">
+                            <input type="hidden" name="travelId" value="@travel.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">
+                                Remove from your Past Travels
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
